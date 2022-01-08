@@ -30,7 +30,7 @@ def main():
         console.print(ascii)
     
     console.print("=============================================================================================", style = 'cyan')
-    console.print("(C) 2021 Gabbierutt. All rights reserved. System Version 1.0. January Python project", style = 'cyan')
+    console.print("(C) 2021 Gabbierutt. All rights reserved. System Version 1.0. January Python Project", style = 'cyan')
     console.print("=============================================================================================", style = 'cyan')
     console.print()
     
